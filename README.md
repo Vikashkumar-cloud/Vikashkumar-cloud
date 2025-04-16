@@ -38,7 +38,7 @@ I am a **self-driven, highly motivated,** and **result-oriented** individual, al
   <img width="12" />
   <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/grafana-logo.png" height="40" alt="grafana logo"  />
   <img width="12" />
-  <img src="https://cdn-images-1.medium.com/max/1076/0*Pn1vXqSDvpl1sJkh" height="40" alt="Prometheus logo"  /> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxsKIL70Jr7E-g1Ij5QlV36XAK1mQ9vQ4Hiw&s" height="40" alt="Prometheus logo"  /> 
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Zabbix_logo.svg/2500px-Zabbix_logo.svg.png" height="40" alt="Zabbix logo"  /> 
   <img width="12" />
