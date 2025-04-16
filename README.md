@@ -11,7 +11,9 @@
 
 I am a **self-driven, highly motivated,** and **result-oriented** individual, always striving to deliver the best outcomes for my employer and clients. I am **flexible, adaptable,** and a **proactive self-learner**, constantly exploring new technologies to **enhance my skills and contribute to an organization's success.**
 <br></br>
-
+<div align="center">
+<img src="https://media.licdn.com/dms/image/v2/C4D12AQHEozYv3E5rdA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1612876678427?e=2147483647&v=beta&t=Q981mQQlvzPASxakzdT8BnmsAJvPyn0sRnp-0Q0teLM" width="600" height="300" >
+</div>
 
 ## 🛠 Language and tools
 
@@ -43,6 +45,7 @@ I am a **self-driven, highly motivated,** and **result-oriented** individual, al
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Zabbix_logo.svg/2500px-Zabbix_logo.svg.png" height="40" alt="Zabbix logo"  /> 
   <img width="12" />
   <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/11/nagios-logo.png" height="40" alt="Nagios logo"  /> 
+  <img width="12" />
 </div>
 <dr></dr>
 <br></br>
