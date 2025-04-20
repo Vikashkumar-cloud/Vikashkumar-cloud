@@ -12,7 +12,7 @@
 I am a **self-driven, highly motivated,** and **result-oriented** individual, always striving to deliver the best outcomes for my employer and clients. I am **flexible, adaptable,** and a **proactive self-learner**, constantly exploring new technologies to **enhance my skills and contribute to an organization's success.**
 <br></br>
 <div align="center">
-<img src="https://cdnl.iconscout.com/lottie/premium/thumb/devops-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--development-methodology-software-operation-programming-pack-design-icons-9404691.mp4" width="600" height="300" >
+<img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052457/DevOps-Steps-1-min.gif" width="600" height="300" >
 </div>
 
 ## 🛠 Language and tools
