@@ -12,7 +12,7 @@
 I am a **self-driven, highly motivated,** and **result-oriented** individual, always striving to deliver the best outcomes for my employer and clients. I am **flexible, adaptable,** and a **proactive self-learner**, constantly exploring new technologies to **enhance my skills and contribute to an organization's success.**
 <br></br>
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/C4D12AQHEozYv3E5rdA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1612876678427?e=2147483647&v=beta&t=Q981mQQlvzPASxakzdT8BnmsAJvPyn0sRnp-0Q0teLM" width="600" height="300" >
+<img src="https://cdnl.iconscout.com/lottie/premium/thumb/devops-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--development-methodology-software-operation-programming-pack-design-icons-9404691.mp4" width="600" height="300" >
 </div>
 
 ## 🛠 Language and tools
