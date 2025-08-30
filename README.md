@@ -7,7 +7,7 @@
 <br>
 
 
-**Dedicated and detail-oriented IT professional** with over **10 years of experience** as a **SupportEngineer** and **Sr. System Admin** from [🇮🇳](https://en.wikipedia.org/wiki/India) , eager to transition into a **DevOps role.**
+**Dedicated and detail-oriented IT professional** with over **10 years of experience** as a **Sr. System Admin** from [🇮🇳](https://en.wikipedia.org/wiki/India) , as **DevOps Engineer** with 4 years of experience in designing, implementing, and managing robust, scalable, and secure CI/CD pipelines and infrastructure. Proven expertise in cloud platforms AWS, containerization (Docker, Kubernetes), infrastructure as code (Terraform, Ansible), monitoring (Prometheus, Grafana), and Bash scripting.
 
 I am a **self-driven, highly motivated,** and **result-oriented** individual, always striving to deliver the best outcomes for my employer and clients. I am **flexible, adaptable,** and a **proactive self-learner**, constantly exploring new technologies to **enhance my skills and contribute to an organization's success.**
 <br></br>
