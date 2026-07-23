@@ -47,7 +47,7 @@ I am a **self-driven, highly motivated,** and **result-oriented** individual, al
 ## 🔗 Connect With Me  
 
 📧 **Email:** [![Email](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vikashkumar.redhat@gmail.com)  
-👔 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vikashkumar-devops/)
-
+👔 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vikashkumar-devops/)  
+📱 **Join WhatsApp Group:** [![WhatsApp](https://img.shields.io/badge/WhatsApp-Join%20Group-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/918505980055)
 
   
