@@ -15,45 +15,39 @@ I am a **self-driven, highly motivated,** and **result-oriented** individual, al
 <img src="https://miro.medium.com/v2/resize:fit:1400/0*9lcu1vuPAL7nfXOk" width="600" height="300" >
 </div>
 
-## 🛠 Language and tools
 
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj62sisbPMYSHtLlU0m7P6HtS7B-WefYgdKWpbW_QHt-zfYPPwSMH9CChXt464pWFfYK8&usqp=CAU" height="40" alt="shell scripting logo"  />
-  <img width="12" />
-  <img src="https://media.licdn.com/dms/image/v2/C5612AQGXcW8H7u_QiA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1609242751927?e=2147483647&v=beta&t=Mwsm2OvVDqVXVFXaE2B22R9s78p1PVFAoaA7XDGW0FQ" height="40" alt="Ansible logo"  />
-  <img width="12" />
-  <img src="https://brandlogos.net/wp-content/uploads/2023/08/nginx-logo_brandlogos.net_9uzg3-512x202.png" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-1.svg" height="40" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.png" height="40" alt="kubernetes logo"  />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Jenkins_logo_with_title.svg" height="40" alt="Jenkins logo"  />
-  <img width="12" /><br></br>
-  <img src="https://miro.medium.com/v2/resize:fit:782/1*JTWb-JQDkYrrYUgzUHfH_g.png" height="40" alt="Terraform logo"  />
-  <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSjUGayPWYjwfHvRRiS9NOvPr5SHFz1x8JQ&s" height="40" alt="GitLab logo"  />
-  <img width="12" />
-  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/grafana-logo.png" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxsKIL70Jr7E-g1Ij5QlV36XAK1mQ9vQ4Hiw&s" height="40" alt="Prometheus logo"  /> 
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Zabbix_logo.svg/2500px-Zabbix_logo.svg.png" height="40" alt="Zabbix logo"  /> 
-  <img width="12" />
-  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/11/nagios-logo.png" height="40" alt="Nagios logo"  /> 
-  <img width="12" />
-</div>
-<dr></dr>
-<br></br>
+## 🛠️ My Tech Stack
 
-📫 **How to reach me** 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Nexus](https://img.shields.io/badge/Nexus-1D1D1D?style=for-the-badge&logo=sonatype&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white)
+---
 
--  **📧 [Email](mailto:vikashkumar.redhat@gmail.com)**
--  **💼 [LinkedIn](https://www.linkedin.com/in/vikash-kumar-125678aa/)**
+## 🔗 Connect With Me  
+
+📧 **Email:** [![Email](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vikashkumar.redhat@gmail.com)  
+👔 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vikashkumar-devops/)
 
 
   
