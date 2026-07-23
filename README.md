@@ -89,14 +89,19 @@ DevOps Engineer | Linux | Docker | Kubernetes | AWS | Jenkins | GitHub Actions |
 | [user-management-app](https://github.com/Vikashkumar-cloud/User-Management-App) | Containerized Node.js deployed with Docker-compose, Kubernetes & GitHub Actions | Docker, Kubernetes, GitHub Actions, Node.js, mariadb, Linux |
 
 ---
+
+## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vikashkumar-cloud&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikashkumar-cloud&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikashkumar-cloud&theme=tokyonight&hide_border=true" width="55%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikashkumar-cloud&theme=tokyonight&hide_border=true" width="60%" />
 </p>
+
+---
 
 ## 🔗 Connect With Me  
 
