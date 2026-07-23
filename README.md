@@ -13,11 +13,6 @@
   <a href="mailto:vikashkumar.devops@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  <a href="https://github.com/Vikashkumar-cloud" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
   <img src="https://komarev.com/ghpvc/?username=Vikashkumar-cloud&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
