@@ -1,9 +1,8 @@
+# 👋 Hi, I'm [Vikash Kumar](https://www.linkedin.com/in/vikashkumar-devops)
 
-
-<br>
-
-## 👋 Hi, I am [Vikash Kumar](https://www.linkedin.com/in/vikashkumar-devops/), 
-<h3 align="center">DevOps Engineer | Linux | Docker | Kubernetes | AWS | CI/CD | Monitoring</h3>
+<h3 align="center">
+DevOps Engineer | Linux | Docker | Kubernetes | AWS | Jenkins | GitHub Actions | CI/CD | Monitoring
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vikashkumar-devops/" target="_blank">
@@ -13,30 +12,36 @@
   <a href="mailto:vikashkumar.devops@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
+  <a href="https://github.com/Vikashkumar-cloud" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <br><br>
+
   <img src="https://komarev.com/ghpvc/?username=Vikashkumar-cloud&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
-<br>
-
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔧 DevOps Engineer with **12+ years** of experience in Linux administration, cloud infrastructure, and system operations
-- ☁️ Working on **AWS EKS (Kubernetes)** cluster operations — pod health, alerting, and cluster troubleshooting
-- 🐳 Hands-on with **Docker** containerization and deploying apps across dev and production environments
-- ⚙️ Building and maintaining **CI/CD pipelines** using Jenkins and GitHub Actions
-- 📊 Monitoring infrastructure with **Prometheus, Grafana, and OpsGenie**
-- 🔁 Automating operational tasks using **Bash/Shell scripting**
-- 📍 Based in Noida, India
+- 🔧 DevOps Engineer with **12+ years of IT experience**, including **6+ years specializing in DevOps, Linux Administration, Cloud Infrastructure, and System Operations**
+- ☁️ Experienced in managing **AWS infrastructure**, including **EC2, VPC, IAM, S3, EKS, Route 53, ALB, and Auto Scaling**
+- 🐳 Hands-on experience with **Docker** and **Kubernetes** for containerized application deployments
+- ⚙️ Building scalable **CI/CD pipelines** using **Jenkins**, **GitHub Actions**, **Maven**, and **Nexus**
+- 📊 Implementing monitoring and alerting using **Prometheus**, **Grafana**, and **OpsGenie**
+- 🔁 Automating infrastructure and deployments using **Bash**, **Ansible**, and **Terraform**
+- 🚀 Passionate about Automation, Cloud Native technologies, DevSecOps, and Infrastructure as Code
+- 📍 Based in **Noida, India**
 
 ---
-<br></br>
+
 <div align="center">
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*9lcu1vuPAL7nfXOk" width="600" height="300" >
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*9lcu1vuPAL7nfXOk" width="700">
 </div>
 
+---
 
 ## 🛠️ Tech Stack & Tools
 
