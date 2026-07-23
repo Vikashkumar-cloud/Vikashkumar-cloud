@@ -3,6 +3,17 @@
 <br>
 
 ## 👋 Hi, I am [Vikash Kumar](https://www.linkedin.com/in/vikashkumar-devops/), 
+<h3 align="center">DevOps Engineer | Linux | Docker | Kubernetes | AWS | CI/CD | Monitoring</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pankaj-kumar-017269217/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pankajarya1058@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Pankajarya1058&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 <br>
 
